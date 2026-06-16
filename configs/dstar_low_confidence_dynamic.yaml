@@ -1,0 +1,8 @@
+# Shared
+block_size: 4
+
+# low_confidence_static + low_confidence_dynamic
+denoising_steps: 4
+
+# low_confidence_dynamic only
+threshold: 0.8
